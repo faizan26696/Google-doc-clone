@@ -1,0 +1,14 @@
+.main{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+  
+    height: 100%;
+    border-radius:5rem;
+   margin-left: 1%;
+   margin-right: 2%;
+
+}
